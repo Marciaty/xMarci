@@ -1,8 +1,8 @@
-- 👋 Hejka! Ja jestem xMarci!
+- 👋 Hejka! Ja jestem Marci!
 - 👀 Interesuje się programowaniem
 - 🌱 Aktualnie ucze się JS Python HTML
-- 💞️ Leandy, PixelBot Developer
-- 📫 Kontakt discord xMarci#8742
+- 💞️ Aktualnie, nie tworzę żadnego projektu
+- 📫 Kontakt discord !Marci#2115
 
 <!---
 xMarci/xMarci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
