@@ -1,10 +1,1 @@
-- 👋 Hejka! Ja jestem Marci!
-- 💞️ Aktualnie, nie tworzę żadnego projektu
-- 📫 Kontakt discord Marci#1111
-- 📄 Strona soon
-- 💻 Beginner HTML developer
-
-<!---
-xMarci/xMarci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/944734434937172100)
