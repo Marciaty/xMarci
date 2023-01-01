@@ -1,1 +1,2 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/944734434937172100)
+👋 Hello world!
+![](https://komarev.com/ghpvc/?username=adasiek193)
